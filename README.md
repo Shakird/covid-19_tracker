@@ -1,3 +1,5 @@
-# covid-19_tracker
+# COVID-19 Tracker
 
-using React.js, Chart.js, Material UI
+Using React.js, Chart.js, Material UI
+
+API used: https://covid19.mathdro.id/api
