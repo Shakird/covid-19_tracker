@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-Created using React, Hooks, Chart.js, Material UI.
+Created using React, Hooks, Chart.js, and Material UI.
 
 API used: https://covid19.mathdro.id/api
 
